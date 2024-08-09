@@ -74,8 +74,8 @@ Here’s a brief animation showcasing the functionality of the project. Feel fre
   </div>
 
   <div style="display: flex; justify-content: space-between;">
-    <img src="results/Input_1.png" alt="Object Detection Result 1" style="width: 45%;">
-    <img src="results/Output_1.png" alt="Object Detection Result 2" style="width: 45%;">
+    <img src="results/Input_1.jpeg" alt="Object Detection Result 1" style="width: 45%;">
+    <img src="results/Output_1.jpeg" alt="Object Detection Result 2" style="width: 45%;">
   </div>
 
 
