@@ -34,12 +34,21 @@ Here’s a brief animation showcasing the functionality of the project. Feel fre
   </div>
 
 
-### Vehicle Pose and Type Detection
-- **Description:** Results for detecting vehicle pose and type, including orientation and classification.
+### Vehicle Pose Detection
+- **Description:** Results for detecting vehicle pose.
 - **Images:**
   <div style="display: flex; justify-content: space-between;">
-    <img src="results/63_ip.png" alt="Vehicle Pose and Type Detection Result 1" style="width: 45%;">
-    <img src="results/63_render.png" alt="Vehicle Pose and Type Detection Result 2" style="width: 45%;">
+    <img src="results/48_ip.png" alt="Vehicle Pose and Type Detection Result 1" style="width: 45%;">
+    <img src="results/48_render.png" alt="Vehicle Pose and Type Detection Result 2" style="width: 45%;">
+  </div>
+- **Observations:** Include insights on detection accuracy and any issues with vehicle classification.
+
+- ### Type Detection
+- **Description:** Results for detecting vehicle type.
+- **Images:**
+  <div style="display: flex; justify-content: space-between;">
+    <img src="results/input.png" alt="Vehicle Pose and Type Detection Result 1" style="width: 45%;">
+    <img src="results/output.png" alt="Vehicle Pose and Type Detection Result 2" style="width: 45%;">
   </div>
 - **Observations:** Include insights on detection accuracy and any issues with vehicle classification.
 
@@ -57,6 +66,16 @@ Here’s a brief animation showcasing the functionality of the project. Feel fre
   <div style="display: flex; justify-content: space-between;">
     <img src="results/is2_750.png" alt="Object Detection Result 1" style="width: 45%;">
     <img src="results/ds2_750.png" alt="Object Detection Result 2" style="width: 45%;">
+  </div>
+
+  <div style="display: flex; justify-content: space-between;">
+    <img src="results/is5_25.png" alt="Object Detection Result 1" style="width: 45%;">
+    <img src="results/ds5_25.png" alt="Object Detection Result 2" style="width: 45%;">
+  </div>
+
+  <div style="display: flex; justify-content: space-between;">
+    <img src="results/input.png" alt="Object Detection Result 1" style="width: 45%;">
+    <img src="results/output.png" alt="Object Detection Result 2" style="width: 45%;">
   </div>
 
 
