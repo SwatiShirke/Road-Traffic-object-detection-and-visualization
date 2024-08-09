@@ -27,8 +27,8 @@ This slide provides an overview of the project and its key components. You can u
 - **Description:** The lane detection algorithm identifies and highlights lane markings in road scenes.
 - **Images:**
   <div style="display: flex; justify-content: space-between;">
-    <img src="results/lane_detection_image1.png" alt="Lane Detection Result 1" style="width: 45%;">
-    <img src="results/lane_detection_image2.png" alt="Lane Detection Result 2" style="width: 45%;">
+    <img src="results/s10_55.jpeg" alt="Lane Detection Result 1" style="width: 45%;">
+    <img src="results/s10_55.jpg" alt="Lane Detection Result 2" style="width: 45%;">
   </div>
 - **Observations:** Discuss accuracy in different conditions and any challenges encountered.
 
