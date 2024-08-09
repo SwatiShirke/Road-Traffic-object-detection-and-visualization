@@ -27,7 +27,7 @@ This slide provides an overview of the project and its key components. You can u
 - **Description:** The lane detection algorithm identifies and highlights lane markings in road scenes.
 - **Images:**
   <div style="display: flex; justify-content: space-between;">
-    <img src="results/s10_55.jpg" alt="Lane Detection Result 1" style="width: 50%;">
+    <img src="results/s10_55.jpg" alt="Lane Detection Result 1" style="width: 45%;">
     <img src="results/s10_55.jpeg" alt="Lane Detection Result 2" style="width: 45%;">
  
 - **Observations:** Discuss accuracy in different conditions and any challenges encountered.
@@ -45,8 +45,8 @@ This slide provides an overview of the project and its key components. You can u
 - **Description:** Results for detecting vehicle pose and type, including orientation and classification.
 - **Images:**
   <div style="display: flex; justify-content: space-between;">
-    <img src="results/vehicle_pose_type_image1.png" alt="Vehicle Pose and Type Detection Result 1" style="width: 45%;">
-    <img src="results/vehicle_pose_type_image2.png" alt="Vehicle Pose and Type Detection Result 2" style="width: 45%;">
+    <img src="results/63_ip.png" alt="Vehicle Pose and Type Detection Result 1" style="width: 45%;">
+    <img src="results/63_render.png" alt="Vehicle Pose and Type Detection Result 2" style="width: 45%;">
   </div>
 - **Observations:** Include insights on detection accuracy and any issues with vehicle classification.
 
@@ -54,8 +54,8 @@ This slide provides an overview of the project and its key components. You can u
 - **Description:** Visualization of pedestrian poses detected within various scenes.
 - **Images:**
   <div style="display: flex; justify-content: space-between;">
-    <img src="results/pedestrian_pose_image1.png" alt="Pedestrian Pose Detection Result 1" style="width: 45%;">
-    <img src="results/pedestrian_pose_image2.png" alt="Pedestrian Pose Detection Result 2" style="width: 45%;">
+    <img src="results/is8_2115.png" alt="Pedestrian Pose Detection Result 1" style="width: 45%;">
+    <img src="results/s8_2115.png" alt="Pedestrian Pose Detection Result 2" style="width: 45%;">
   </div>
 - **Observations:** Evaluate the performance of the pose detection in different environments.
 
@@ -63,8 +63,8 @@ This slide provides an overview of the project and its key components. You can u
 - **Description:** Demonstrates the object detection capabilities for identifying and classifying objects in road scenes.
 - **Images:**
   <div style="display: flex; justify-content: space-between;">
-    <img src="results/object_detection_image1.png" alt="Object Detection Result 1" style="width: 45%;">
-    <img src="results/object_detection_image2.png" alt="Object Detection Result 2" style="width: 45%;">
+    <img src="results/is2_750.png" alt="Object Detection Result 1" style="width: 45%;">
+    <img src="results/ds2_750.png" alt="Object Detection Result 2" style="width: 45%;">
   </div>
 - **Observations:** Discuss detection performance, including accuracy and types of objects detected.
 
