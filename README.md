@@ -15,11 +15,6 @@ This project aims to enhance autonomous vehicle perception by providing accurate
 
 Here’s a brief animation showcasing the functionality of the project. Feel free to watch the demo to get an idea of how it works.
 
-## Presentation
-
-![Project Slide](results/EinsteinVision.mp4)
-
-This slide provides an overview of the project and its key components. You can use it to understand the core concepts and objectives.
 
 ## Results
 
