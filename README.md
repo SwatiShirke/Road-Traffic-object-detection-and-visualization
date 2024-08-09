@@ -1,7 +1,6 @@
-# Road-Traffic-object-detection-and-visualization
-This repo consist of code for 3D scene visualization of road traffic for Autonomous Vehicles: Lane Detection, vehicle and pedestrian pose estimation.
+# Road-Traffic-Object-Detection-and-Visualization
 
-# Project Title
+This repo consists of code for 3D scene visualization of road traffic for Autonomous Vehicles: Lane Detection, vehicle, and pedestrian pose estimation.
 
 ## Overview
 
@@ -9,15 +8,16 @@ Brief description of your project. Provide a high-level summary of what the proj
 
 ## Demo
 
-![Project Demo](results/scene1_render_gif.gif)
-![Project Demo](results/scene7_gif.gif)
+<div style="display: flex; justify-content: space-around;">
+  <img src="results/scene1_render_gif.gif" alt="Project Demo 1" style="width: 45%;">
+  <img src="results/scene7_gif.gif" alt="Project Demo 2" style="width: 45%;">
+</div>
 
 Here’s a brief animation showcasing the functionality of the project. Feel free to watch the demo to get an idea of how it works.
 
 ## Presentation
 
 ![Project Slide](path/to/your/slide.png)
-
 
 This slide provides an overview of the project and its key components. You can use it to understand the core concepts and objectives.
 
@@ -41,4 +41,3 @@ pip install -r requirements.txt
 
 # Run the project
 python your-script.py
-
