@@ -30,16 +30,14 @@ This slide provides an overview of the project and its key components. You can u
     <img src="results/s10_55.jpg" alt="Lane Detection Result 1" style="width: 45%;">
     <img src="results/s10_55.jpeg" alt="Lane Detection Result 2" style="width: 45%;">
  
-- **Observations:** Discuss accuracy in different conditions and any challenges encountered.
-
-### Arrow Detection
+  ### Arrow Detection
 - **Description:** This module detects road arrows to aid in understanding road directions.
 - **Images:**
   <div style="display: flex; justify-content: space-between;">
     <img src="results/s_3.png" alt="Arrow Detection Result 1" style="width: 45%;">
     <img src="results/3.png" alt="Arrow Detection Result 2" style="width: 45%;">
   </div>
-- **Observations:** Comment on the algorithm’s effectiveness in diverse scenarios.
+
 
 ### Vehicle Pose and Type Detection
 - **Description:** Results for detecting vehicle pose and type, including orientation and classification.
@@ -57,7 +55,6 @@ This slide provides an overview of the project and its key components. You can u
     <img src="results/is8_2115.png" alt="Pedestrian Pose Detection Result 1" style="width: 45%;">
     <img src="results/s8_2115.png" alt="Pedestrian Pose Detection Result 2" style="width: 45%;">
   </div>
-- **Observations:** Evaluate the performance of the pose detection in different environments.
 
 ### Object Detection
 - **Description:** Demonstrates the object detection capabilities for identifying and classifying objects in road scenes.
@@ -66,27 +63,5 @@ This slide provides an overview of the project and its key components. You can u
     <img src="results/is2_750.png" alt="Object Detection Result 1" style="width: 45%;">
     <img src="results/ds2_750.png" alt="Object Detection Result 2" style="width: 45%;">
   </div>
-- **Observations:** Discuss detection performance, including accuracy and types of objects detected.
 
-## Installation
-
-To set up the project locally, follow these instructions:
-
-1. Clone the repository
-2. Install dependencies
-3. Run the application
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/your-repo.git
-
-# Navigate into the project directory
-cd your-repo
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the project
-python your-script.py
-```
 
