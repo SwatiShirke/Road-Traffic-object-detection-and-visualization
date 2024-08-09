@@ -9,7 +9,7 @@ Brief description of your project. Provide a high-level summary of what the proj
 
 ## Demo
 
-![Project Demo](path/to/your/gif.gif)
+![Project Demo](results/scene1_render_gif.gif)
 
 Here’s a brief animation showcasing the functionality of the project. Feel free to watch the demo to get an idea of how it works.
 
