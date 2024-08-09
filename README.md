@@ -47,8 +47,8 @@ Here’s a brief animation showcasing the functionality of the project. Feel fre
 - **Description:** Results for detecting vehicle type.
 - **Images:**
   <div style="display: flex; justify-content: space-between;">
-    <img src="results/input.png" alt="Vehicle Pose and Type Detection Result 1" style="width: 45%;">
-    <img src="results/output.png" alt="Vehicle Pose and Type Detection Result 2" style="width: 45%;">
+    <img src="results/Input.png" alt="Vehicle Pose and Type Detection Result 1" style="width: 45%;">
+    <img src="results/Output.png" alt="Vehicle Pose and Type Detection Result 2" style="width: 45%;">
   </div>
 - **Observations:** Include insights on detection accuracy and any issues with vehicle classification.
 
@@ -74,8 +74,8 @@ Here’s a brief animation showcasing the functionality of the project. Feel fre
   </div>
 
   <div style="display: flex; justify-content: space-between;">
-    <img src="results/input.png" alt="Object Detection Result 1" style="width: 45%;">
-    <img src="results/output.png" alt="Object Detection Result 2" style="width: 45%;">
+    <img src="results/Input_1.png" alt="Object Detection Result 1" style="width: 45%;">
+    <img src="results/Output_1.png" alt="Object Detection Result 2" style="width: 45%;">
   </div>
 
 
