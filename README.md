@@ -17,7 +17,7 @@ Here’s a brief animation showcasing the functionality of the project. Feel fre
 
 ## Presentation
 
-![Project Slide](path/to/your/slide.png)
+![Project Slide](results/EinsteinVision.pptx)
 
 This slide provides an overview of the project and its key components. You can use it to understand the core concepts and objectives.
 
