@@ -7,10 +7,6 @@ This repository contains code for 3D scene visualization of road traffic for Aut
 This project aims to enhance autonomous vehicle perception by providing accurate detection and visualization of various road elements. The key features include lane detection, vehicle and pedestrian pose estimation, and object detection, which are crucial for understanding and navigating complex traffic scenarios.
 
 ## Demo
-<div style="display: flex; justify-content: space-between;">
-    <img src="results/Video_1.gif" alt="Object Detection Result 1" style="width: 45%;">
-    <img src="results/Output_1.gif" alt="Object Detection Result 2" style="width: 45%;">
-  </div>
 
 
 <div style="display: flex; justify-content: space-around;">
