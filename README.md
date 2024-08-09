@@ -1,10 +1,10 @@
 # Road-Traffic-Object-Detection-and-Visualization
 
-This repo consists of code for 3D scene visualization of road traffic for Autonomous Vehicles: Lane Detection, vehicle, and pedestrian pose estimation.
+This repository contains code for 3D scene visualization of road traffic for Autonomous Vehicles. It includes modules for Lane Detection, Vehicle and Pedestrian Pose Estimation, and Object Detection.
 
 ## Overview
 
-Brief description of your project. Provide a high-level summary of what the project is about, its purpose, and any key features or functionality.
+This project aims to enhance autonomous vehicle perception by providing accurate detection and visualization of various road elements. The key features include lane detection, vehicle and pedestrian pose estimation, and object detection, which are crucial for understanding and navigating complex traffic scenarios.
 
 ## Demo
 
@@ -21,13 +21,60 @@ Here’s a brief animation showcasing the functionality of the project. Feel fre
 
 This slide provides an overview of the project and its key components. You can use it to understand the core concepts and objectives.
 
+## Results
+
+### Lane Detection
+- **Description:** The lane detection algorithm identifies and highlights lane markings in road scenes.
+- **Images:**
+  <div style="display: flex; justify-content: space-between;">
+    <img src="results/lane_detection_image1.png" alt="Lane Detection Result 1" style="width: 45%;">
+    <img src="results/lane_detection_image2.png" alt="Lane Detection Result 2" style="width: 45%;">
+  </div>
+- **Observations:** Discuss accuracy in different conditions and any challenges encountered.
+
+### Arrow Detection
+- **Description:** This module detects road arrows to aid in understanding road directions.
+- **Images:**
+  <div style="display: flex; justify-content: space-between;">
+    <img src="results/arrow_detection_image1.png" alt="Arrow Detection Result 1" style="width: 45%;">
+    <img src="results/arrow_detection_image2.png" alt="Arrow Detection Result 2" style="width: 45%;">
+  </div>
+- **Observations:** Comment on the algorithm’s effectiveness in diverse scenarios.
+
+### Vehicle Pose and Type Detection
+- **Description:** Results for detecting vehicle pose and type, including orientation and classification.
+- **Images:**
+  <div style="display: flex; justify-content: space-between;">
+    <img src="results/vehicle_pose_type_image1.png" alt="Vehicle Pose and Type Detection Result 1" style="width: 45%;">
+    <img src="results/vehicle_pose_type_image2.png" alt="Vehicle Pose and Type Detection Result 2" style="width: 45%;">
+  </div>
+- **Observations:** Include insights on detection accuracy and any issues with vehicle classification.
+
+### Pedestrian Pose Detection
+- **Description:** Visualization of pedestrian poses detected within various scenes.
+- **Images:**
+  <div style="display: flex; justify-content: space-between;">
+    <img src="results/pedestrian_pose_image1.png" alt="Pedestrian Pose Detection Result 1" style="width: 45%;">
+    <img src="results/pedestrian_pose_image2.png" alt="Pedestrian Pose Detection Result 2" style="width: 45%;">
+  </div>
+- **Observations:** Evaluate the performance of the pose detection in different environments.
+
+### Object Detection
+- **Description:** Demonstrates the object detection capabilities for identifying and classifying objects in road scenes.
+- **Images:**
+  <div style="display: flex; justify-content: space-between;">
+    <img src="results/object_detection_image1.png" alt="Object Detection Result 1" style="width: 45%;">
+    <img src="results/object_detection_image2.png" alt="Object Detection Result 2" style="width: 45%;">
+  </div>
+- **Observations:** Discuss detection performance, including accuracy and types of objects detected.
+
 ## Installation
 
-Provide instructions on how to set up the project locally. This might include:
+To set up the project locally, follow these instructions:
 
-1. Cloning the repository
-2. Installing dependencies
-3. Running the application
+1. Clone the repository
+2. Install dependencies
+3. Run the application
 
 ```bash
 # Clone the repository
@@ -41,3 +88,5 @@ pip install -r requirements.txt
 
 # Run the project
 python your-script.py
+```
+
